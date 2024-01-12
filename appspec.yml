@@ -1,0 +1,14 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/ubuntu/epiko-market
+hooks:
+  AfterInstall:
+    - location: scripts/AfterInstall.sh
+      timeout: 180
+      runas: root
+  BeforeInstall:
+    - location: scripts/BeforeInstall.sh
+      timeout: 60
+      runas: root

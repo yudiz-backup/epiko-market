@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="84" viewBox="0 0 216 84">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.981" cy="0.028" r="3.165" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcf14"/>
+      <stop offset="0.519" stop-color="#ee8fff"/>
+      <stop offset="1" stop-color="#38deff"/>
+    </radialGradient>
+    <filter id="Style_light_Size_small_State_hover_Icon_false_Background_" x="0" y="0" width="216" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ee8fff" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_334_35" data-name="Component 334 – 35" transform="translate(15 10)">
+    <g id="Group_6047" data-name="Group 6047" transform="translate(0 -1)">
+      <g transform="matrix(1, 0, 0, 1, -15, -9)" filter="url(#Style_light_Size_small_State_hover_Icon_false_Background_)">
+        <rect id="Style_light_Size_small_State_hover_Icon_false_Background_2" data-name="Style=light, Size=small, State=hover, Icon=false (Background)" width="186" height="54" transform="translate(15 10)" fill="url(#radial-gradient)"/>
+      </g>
+      <text id="label" transform="translate(44 34)" fill="#fffcf9" font-size="18" font-family="Dystopian-Bold, Dystopian" font-weight="700"><tspan x="0" y="0">Place a Bid</tspan></text>
+    </g>
+  </g>
+</svg>

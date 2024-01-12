@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.964" cy="0.016" r="1.346" gradientTransform="matrix(-0.699, 0.715, -0.715, -0.699, 1.649, -0.662)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcf14"/>
+      <stop offset="0.519" stop-color="#ee8fff"/>
+      <stop offset="1" stop-color="#38deff"/>
+    </radialGradient>
+    <clipPath id="clip-Favicon">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Favicon" clip-path="url(#clip-Favicon)">
+    <rect width="16" height="16" fill="#3b3b3b"/>
+    <path id="Rectangle_5289" data-name="Rectangle 5289" d="M.29.29V9.627H9.627V.29H.29M0,0H9.917V9.917H0Z" transform="translate(3.043 3.041)" fill="#fffcf9"/>
+    <rect id="Rectangle_5295" data-name="Rectangle 5295" width="9.917" height="9.917" transform="translate(8 0.987) rotate(45)" fill="url(#radial-gradient)"/>
+    <rect id="Rectangle_5421" data-name="Rectangle 5421" width="9.917" height="9.917" transform="translate(8 0.987) rotate(45)" fill="url(#radial-gradient)"/>
+    <path id="Path_23" data-name="Path 23" d="M4.868,0H0V3.077H.69V.651h1.4V3.077h.69V.651h1.4V3.077h.69Z" transform="translate(6.463 10.434) rotate(-90)" fill="#fffcf9"/>
+    <path id="Path_6119" data-name="Path 6119" d="M4.868,0H0V3.077H.69V.651h1.4V3.077h.69V.651h1.4V3.077h.69Z" transform="translate(6.463 10.434) rotate(-90)" fill="#fffcf9"/>
+  </g>
+</svg>
